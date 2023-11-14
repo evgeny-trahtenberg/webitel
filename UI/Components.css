@@ -637,5 +637,6 @@
   --wt-tooltip-corner-radius: var(--corner-radius-md);
   --wt-tooltip-vertical-padding: var(--paddings-xs);
   --wt-tooltip-horizontal-padding: var(--paddings-sm);
+  --wt-test: var(--paddings-2xs);
 }
 
